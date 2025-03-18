@@ -27,7 +27,6 @@ Usage:
 <a href="https://postimg.cc/8J51Xz1z" target="_blank"><img src="https://i.postimg.cc/8J51Xz1z/01.png" alt="01"/></a><br/><br/>
 <a href="https://postimg.cc/Mffzx3fk" target="_blank"><img src="https://i.postimg.cc/Mffzx3fk/02.png" alt="02"/></a><br/><br/>
 <a href="https://postimg.cc/WFHsBc36" target="_blank"><img src="https://i.postimg.cc/WFHsBc36/03.png" alt="03"/></a><br/><br/>
-
 Disclaimer:
 This tool is intended for educational purposes and authorized use only. Use it at your own risk.
 
