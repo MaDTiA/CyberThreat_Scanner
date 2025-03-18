@@ -27,6 +27,14 @@ Usage:
 <a href="https://postimg.cc/8J51Xz1z" target="_blank"><img src="https://i.postimg.cc/8J51Xz1z/01.png" alt="01"/></a><br/><br/>
 <a href="https://postimg.cc/Mffzx3fk" target="_blank"><img src="https://i.postimg.cc/Mffzx3fk/02.png" alt="02"/></a><br/><br/>
 <a href="https://postimg.cc/WFHsBc36" target="_blank"><img src="https://i.postimg.cc/WFHsBc36/03.png" alt="03"/></a><br/><br/>
+<a href="https://www.virustotal.com/gui/file/7485f84ca3a18948156fbac117e131536187a22b203b00a1ee81a9f7d454f87b" target="_blank">
+    VirusTotal Scan Result
+</a>
+<br>
+<a href="https://www.virustotal.com/gui/file-analysis/ODczNWRkOGZkZDM3OTkxYzA0NTRkYmZkZTc2MGZkZGM6MTc0MjMxNDk0MQ==" target="_blank">
+    VirusTotal File Analysis
+</a>
+
 Disclaimer:
 This tool is intended for educational purposes and authorized use only. Use it at your own risk.
 
