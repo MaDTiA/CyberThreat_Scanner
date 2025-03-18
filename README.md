@@ -24,6 +24,8 @@ Usage:
 3. Run the script with administrator privileges:
    python script.py
 
+<a href="https://ibb.co/yn6zk4f2"><img src="https://i.ibb.co/yn6zk4f2/01.png" alt="01" border="0"></a> <a href="https://ibb.co/RTR4h0V5"><img src="https://i.ibb.co/RTR4h0V5/02.png" alt="02" border="0"></a> <a href="https://ibb.co/qYK8PpwP"><img src="https://i.ibb.co/qYK8PpwP/03.png" alt="03" border="0"></a>
+
 Disclaimer:
 This tool is intended for educational purposes and authorized use only. Use it at your own risk.
 
